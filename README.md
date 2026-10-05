@@ -1,6 +1,6 @@
 # Olá, eu sou o Vinicius Bordin! 👋
 
-Engenheiro de Software focado em construir soluções eficientes, escaláveis e bem estruturadas. Atualmente me aprofundando em arquitetura de software e desenvolvimento full stack, aplicando boas práticas de código, padrões de projeto e consumo/construção de APIs.
+Técnico em Informática focado em construir soluções eficientes, escaláveis e bem estruturadas. Atualmente me aprofundando em arquitetura de software e desenvolvimento full stack, aplicando boas práticas de código, padrões de projeto e consumo/construção de APIs.
 
 ---
 
