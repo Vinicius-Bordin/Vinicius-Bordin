@@ -21,7 +21,7 @@ Técnico em Informática focado em construir soluções eficientes, escaláveis 
 
 ### 📌 Sobre mim
 
-- 🔭 **Atuação:** Engenharia de Software (Desenvolvimento Backend, Web e APIs).
+- 🔭 **Atuação:** Técnico em Informática.
 - 🎓 **Foco contínuo:** Arquitetura de Software, Qualidade de Código e Engenharia de Dados.
 - ⚡ **Objetivo:** Criação de aplicações robustas, otimização de sistemas e integração de APIs.
 
